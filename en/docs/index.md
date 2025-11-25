@@ -11,7 +11,7 @@
         ]
     },
     {
-        "title": "Community & Support",
+        "title": "Community & Support", 
         "icon": "❓",
         "links": [
             {"name": "GitHub", "url": "https://github.com/wso2/product-micro-integrator/issues"},
